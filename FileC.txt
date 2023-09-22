@@ -1,0 +1,8 @@
+Technical analysis is a widely recognised method of chart analysis aimed at forecasting future prices of stocks, currencies or commodities.
+
+Technical analysis is based on 3 main principles:
+
+1. The market discounts everything - the current market price takes into account all available information about a given security, 
+the micro and macroeconomic situation as well as political and economic conditions.
+2. Prices move in a trend - prices follow specific trends (upward, downward, horizontal) until there are clear signals indicating a trend reversal.
+3. History repeats itself - technical analysis focuses on predicting future price movements based on history; this assumption is based on the repetition of certain patterns over time.
