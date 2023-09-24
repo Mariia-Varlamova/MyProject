@@ -12,11 +12,9 @@ A list of the most popular and best programming languages that will be in demand
 10. Ruby
 11. C and C++
 12. Matlab
-13. TypeScript
-14. Scala
-15. SQL
-16. HTML
-17. CSS
-18. NoSQL
-19. Rust
-20. Perl
+13. Scala
+14. SQL
+15. HTML
+16. CSS
+17. NoSQL
+18. Perl

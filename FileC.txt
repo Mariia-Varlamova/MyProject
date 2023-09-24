@@ -6,3 +6,23 @@ Technical analysis is based on 3 main principles:
 the micro and macroeconomic situation as well as political and economic conditions.
 2. Prices move in a trend - prices follow specific trends (upward, downward, horizontal) until there are clear signals indicating a trend reversal.
 3. History repeats itself - technical analysis focuses on predicting future price movements based on history; this assumption is based on the repetition of certain patterns over time.
+
+The most popular trend continuation formations:
+
+Falling / rising three methods patterns
+Rising three methods pattern - a tall green candle forms in an uptrend. The high candle is followed by a group of small-bodied candles that indicate that 
+there is some resistance in the current trend. These candles are generally red in color, but most importantly, all their bodies are within the swing 
+range of the first tall green candle, and the shadows are also within the swing range. 
+The opening of the last candle (usually the fifth in a row) is above the closing level of the previous correction day, and it closes at a new, maximum level.
+
+Falling three methods pattern - there is a downtrend in the market which is reflected in the formation of a high red candle. During the next three sessions, candles with low bodies are formed, 
+which are oriented in the opposite direction to the current trend. It is best if the candle bodies of the correction period are green. 
+The bodies of all these candlesticks remain within the range of the first red candlestick. 
+The opening of the next and last candle of this formation should take place near the closing level of the previous session, and it's closing at a new, minimum level.
+
+The most popular trend reversal formations:
+
+Bullish / bearish engulfing pattern
+Hammer
+Shooting star 
+Morning / evening star
